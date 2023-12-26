@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alex
 ============================================================================================================================
 
-I'm one of the CEOs and lead developer at Garmingo, I take pride in my work with the company. My passion lies in the creation of easily accessible and user-friendly SaaS products, with a strong emphasis on affordability. I'm deeply committed to bringing this vision to life and making technology within reach for all.
+I'm one of the CEOs and lead developer at Garmingo, I take pride in my work with the company.<br>My passion lies in the creation of easily accessible and user-friendly SaaS products, with a strong emphasis on affordability.<br>I'm deeply committed to bringing this vision to life and making technology within reach for all.
 
 * 🌍  I'm based in Germany
 * ✉️  You can contact me on [Discord (@therealfloatdev)](https://discord.com/users/therealfloatdev)
-* 🚀  I'm currently working on [Garmingo](http://garmingo.com)
+* 🚀  I'm currently working on [Garmingo Status](http://garmingo.com/status)
 
 ### Skills
 
